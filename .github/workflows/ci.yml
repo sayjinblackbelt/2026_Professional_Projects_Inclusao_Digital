@@ -1,0 +1,40 @@
+name: Inclusion Digital Portfolio CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate multilingual documentation
+        run: |
+          set -euo pipefail
+          for file in README.md README.en.md README.es.md; do
+            test -s "$file"
+            grep -q "Filipe G Morais" "$file"
+            grep -q "github.com/sayjinblackbelt" "$file"
+          done
+      - name: Validate repository structure
+        run: |
+          set -euo pipefail
+          for dir in 01_Documentacao 02_Planejamento 03_Planos_de_Aula 04_Materiais_Educador 05_Materiais_Educandos 06_Prompts_IA 07_Projetos 08_Resultados; do
+            test -d "$dir"
+            test -s "$dir/README.md"
+          done
+          test -s index.html
+      - name: Validate web assets
+        run: |
+          node --check <(printf 'console.log("structure validation")') || true
+          grep -q "<html" index.html
+          grep -q "</html>" index.html
+      - name: Privacy guard
+        run: |
+          if grep -RInE '(AIza[0-9A-Za-z_-]{20,}|ghp_[0-9A-Za-z]{20,}|sk-[A-Za-z0-9_-]{20,}|BEGIN (RSA|OPENSSH|EC|DSA) PRIVATE KEY)' . --exclude-dir=.git; then
+            echo "Potential secret detected."
+            exit 1
+          fi
