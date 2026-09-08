@@ -333,4 +333,4 @@ Pode ser utilizado como referência para futuras iniciativas de formação profi
 **Filipe G Morais**
 
 GitHub: https://github.com/sayjinblackbelt  
-Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Vozes_do_Espectro
+Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Inclusao_Digital
