@@ -147,7 +147,7 @@ Results are presented in aggregated and qualitative form.
 
 ## 👨‍🏫 Educator
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
 
 Areas of work:
 
@@ -252,3 +252,8 @@ This repository presents practical experience in:
 **Professional Education • Educational Technology • Artificial Intelligence • Design • Communication • Pedagogical Planning • Skills Assessment • Inclusion**
 
 It can serve as a reference for future professional training initiatives, technology education, and projects that integrate digital skills with human development.
+
+
+---
+
+Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Inclusao_Digital
