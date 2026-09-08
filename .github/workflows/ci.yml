@@ -29,7 +29,6 @@ jobs:
           test -s index.html
       - name: Validate web assets
         run: |
-          node --check <(printf 'console.log("structure validation")') || true
           grep -q "<html" index.html
           grep -q "</html>" index.html
       - name: Privacy guard
