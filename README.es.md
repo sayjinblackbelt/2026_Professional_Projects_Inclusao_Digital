@@ -6,169 +6,173 @@
 
 ## Visión general
 
-This repository presents the structure, materials, and results of a learning pathway focused on developing **digital skills, autonomy, organization, communication, and professional preparation**.
+Este repositorio presenta la estructura, los materiales y los resultados de un recorrido formativo centrado en el desarrollo de **competencias digitales, autonomía, organización, comunicación y preparación profesional**.
 
-The approach connects technical learning with real situations:
+La propuesta conecta el aprendizaje técnico con situaciones reales:
 
-**Planning → Classes → Practice → Projects → Assessment → Application**
+**Planificación → Clases → Práctica → Proyectos → Evaluación → Aplicación**
 
 ## 🎯 Objetivos del recorrido
 
-- Develop digital skills applicable to professional environments.
-- Increase autonomy in the use of technological tools.
-- Work on organization, planning, and communication.
-- Develop presentations and visual communication.
-- Introduce responsible use of Artificial Intelligence.
-- Encourage critical thinking, review, and information validation.
-- Create opportunities for practical application of knowledge.
+- Desarrollar competencias digitales aplicables al entorno profesional.
+- Ampliar la autonomía en el uso de herramientas tecnológicas.
+- Trabajar organización, planificación y comunicación.
+- Desarrollar presentaciones y comunicación visual.
+- Introducir el uso responsable de la Inteligencia Artificial.
+- Estimular el pensamiento crítico, la revisión y la validación de información.
+- Crear oportunidades para la aplicación práctica de los conocimientos.
 
 ## 🧭 Recorrido formativo
 
-1. **Digital foundations and productivity** — files, digital tools, and professional resources.
-2. **Organization and planning** — tasks, priorities, schedules, and activity management.
-3. **Google Workspace** — documents, spreadsheets, presentations, and collaboration.
-4. **Design and visual communication** — design principles, Canva, hierarchy, typography, and communication.
-5. **Professional presentations** — narrative, slide structure, Google Slides, Canva, and oral presentation.
-6. **Artificial Intelligence** — ChatGPT, prompts, documents, summaries, meeting notes, productivity, human review, and information security.
-7. **Integrative projects** — applying knowledge to meaningful professional challenges and products.
-8. **Final project** — **Professional Portfolio: My Journey in Voices of the Spectrum**.
+1. **Fundamentos digitales y productividad** — archivos, herramientas digitales y recursos profesionales.
+2. **Organización y planificación** — tareas, prioridades, cronogramas y gestión de actividades.
+3. **Google Workspace** — documentos, hojas de cálculo, presentaciones y colaboración.
+4. **Diseño y comunicación visual** — principios de diseño, Canva, jerarquía, tipografía y comunicación.
+5. **Presentaciones profesionales** — narrativa, estructura de diapositivas, Google Presentaciones, Canva y presentación oral.
+6. **Inteligencia Artificial** — ChatGPT, prompts, documentos, resúmenes, actas, productividad, revisión humana y seguridad de la información.
+7. **Proyectos integradores** — aplicación de los conocimientos en desafíos y productos con significado profesional.
+8. **Proyecto final** — **Portafolio Profesional — Mi Jornada en Voces del Espectro**.
 
 ## 📊 Resultados destacados
 
 ### Hard skills
 
-**Approximate aggregate average: 80.3/100**
+**Promedio agregado aproximado: 80,3/100**
 
-The follow-up indicated consistent development in:
+El seguimiento indicó un desarrollo consistente en:
 
-- digital tools;
-- information organization;
-- documents and professional communication;
-- spreadsheets;
-- presentations;
-- design;
-- Artificial Intelligence.
+- herramientas digitales;
+- organización de información;
+- documentos y comunicación profesional;
+- hojas de cálculo;
+- presentaciones;
+- diseño;
+- Inteligencia Artificial.
 
-Published results are aggregated to preserve participant privacy.
+Los resultados publicados están agregados para preservar la privacidad de los participantes.
 
-### Practical application
+### Aplicación práctica
 
-Participants reported applying knowledge to:
+Los participantes informaron aplicar los conocimientos en situaciones como:
 
-- task organization;
-- spreadsheet editing;
-- communication with suppliers;
-- marketing and events;
-- document creation;
-- presentations;
-- administrative activities;
-- information organization.
+- organización de tareas;
+- edición de hojas de cálculo;
+- comunicación con proveedores;
+- marketing y eventos;
+- creación de documentos;
+- presentaciones;
+- actividades administrativas;
+- organización de información.
 
 ## 🤖 Inteligencia Artificial como competencia profesional
 
-AI was taught as a tool to support thinking and productivity.
+La IA se trabajó como una herramienta de apoyo al pensamiento y la productividad.
 
-A fundamental principle was:
+Un principio fundamental fue:
 
-> **Generating content is not enough.**
+> **Generar no es suficiente.**
 
-AI output must go through:
+Todo contenido producido con IA debe pasar por:
 
-1. analysis;
-2. review;
-3. validation;
-4. adaptation to context.
+1. análisis;
+2. revisión;
+3. validación;
+4. adaptación al contexto.
 
-Responsibility for the final result remains human.
+La responsabilidad por el resultado final sigue siendo humana.
 
 ## 🧩 Enfoque pedagógico
 
-The pathway integrated technology and human development through:
+El recorrido integró tecnología y desarrollo humano mediante:
 
-- demonstration;
-- practice;
-- projects;
-- reflection;
-- communication;
-- autonomy;
-- review.
+- demostración;
+- práctica;
+- proyectos;
+- reflexión;
+- comunicación;
+- autonomía;
+- revisión.
 
-The pedagogical cycle emphasized:
+La lógica pedagógica valoró el ciclo:
 
-**Observe → Reflect → Act → Perform → Know when to wait**
+**Observar → Reflexionar → Actuar → Intervenir → Saber esperar**
 
-Technology was therefore presented not as isolated knowledge, but as a resource for solving problems, organizing information, and expanding professional possibilities.
+Las herramientas se presentaron como recursos para resolver problemas, organizar información y ampliar posibilidades profesionales.
 
 ## 🚀 Proyectos destacados
 
-### Adapt or Disappear
+### Adaptar o Desaparecer
 
-An integrative project focused on:
+Proyecto integrador centrado en:
 
-- analyzing change;
-- identifying challenges;
-- creativity;
-- adaptation;
-- problem solving;
-- communicating proposals.
+- análisis de cambios;
+- identificación de desafíos;
+- creatividad;
+- adaptación;
+- resolución de problemas;
+- comunicación de propuestas.
 
-### Professional Portfolio — My Journey
+### Portafolio Profesional — Mi Jornada en Voces del Espectro
 
-The final project brought together:
+El proyecto final reunió:
 
-- personal trajectory;
-- experiences;
-- tools;
-- competencies;
-- challenges;
-- progress;
-- professional perspectives.
+- trayectoria;
+- experiencias;
+- herramientas;
+- competencias;
+- desafíos;
+- evolución;
+- perspectivas profesionales.
 
-Participants presented their portfolios to the team, guests, and supporters during the closing event.
+Los educandos presentaron sus portafolios al equipo, invitados y colaboradores durante el cierre del recorrido.
 
 ## 🗂️ Estructura del repositorio
 
-| Section | Content |
+| Sección | Contenido |
 |---|---|
-| [Documentation](./01_Documentacao/) | Project context and records |
-| [Planning](./02_Planejamento/) | Pathway organization and structure |
-| [Lesson Plans](./03_Planos_de_Aula/) | Representative lesson plans |
-| [Educator Materials](./04_Materiais_Educador/) | Teaching guides and resources |
-| [Learner Materials](./05_Materiais_Educandos/) | Activities and guidance |
-| [AI Prompts](./06_Prompts_IA/) | Reusable prompt library |
-| [Projects](./07_Projetos/) | Integrative projects |
-| [Results](./08_Resultados/) | Assessment and impact |
+| [Documentación](./01_Documentacao/) | Contexto y registros del proyecto |
+| [Planificación](./02_Planejamento/) | Organización y estructura del recorrido |
+| [Planes de clase](./03_Planos_de_Aula/) | Planes representativos |
+| [Materiales del educador](./04_Materiais_Educador/) | Guías y recursos pedagógicos |
+| [Materiales de los educandos](./05_Materiais_Educandos/) | Actividades y orientaciones |
+| [Prompts de IA](./06_Prompts_IA/) | Biblioteca reutilizable |
+| [Proyectos](./07_Projetos/) | Proyectos integradores |
+| [Resultados](./08_Resultados/) | Evaluaciones e impacto |
 
 ## 🔒 Privacidad
 
-This repository prioritizes pedagogical and professional documentation. Individual data, identifiable responses, and personal information must not be published in public repositories.
+Este repositorio prioriza la documentación pedagógica y profesional del recorrido.
 
-Results are presented in aggregated and qualitative form.
+Los datos individuales, respuestas identificables e información personal de los participantes no deben publicarse en repositorios públicos.
+
+Los resultados se presentan de forma agregada y cualitativa.
+
+Consulta también la [Política de Privacidad y Datos](./01_Documentacao/PRIVACIDADE_E_DADOS.md).
 
 ## 👨‍🏫 Educador responsable
 
 **Filipe G Morais**
 
-Areas of work:
+Áreas de trabajo:
 
-- Technology;
-- Educational Computing;
-- Digital Media;
-- Design;
-- Applied Artificial Intelligence;
-- Digital skills development.
+- Tecnología;
+- Informática Educativa;
+- Medios Digitales;
+- Diseño;
+- Inteligencia Artificial aplicada;
+- Desarrollo de competencias digitales.
 
 ## 📌 Finalidad
 
-This repository functions as:
+Este repositorio funciona como:
 
-- pedagogical documentation;
-- a professional portfolio;
-- a case study;
-- a reference for future projects;
-- a library of reusable materials.
+- documentación pedagógica;
+- portafolio profesional;
+- estudio de caso;
+- referencia para futuros proyectos;
+- biblioteca de materiales reutilizables.
 
-> **Technology is not only about mastering tools. It is the ability to understand, create, organize, communicate, and transform knowledge into action.**
+> **La tecnología no consiste solo en dominar herramientas. Es la capacidad de comprender, crear, organizar, comunicar y transformar conocimiento en acción.**
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -178,82 +182,92 @@ This repository functions as:
 - Manus AI / Manus Slides
 - GitHub
 
-### Learning ecosystem
+### Ecosistema trabajado
 
-- **Google Docs** — document production and organization;
-- **Google Sheets** — data organization and practical activities;
-- **Google Slides** — professional presentations;
-- **Canva** — visual communication and design;
-- **ChatGPT** — organization, production, review, productivity support, and experimentation with a customized administrative agent;
-- **Manus AI / Manus Slides** — initial presentation generation from briefs and prompts;
-- **Artificial Intelligence** — prompts, critical analysis, and human review;
-- **GitHub** — documentation and organization of this case study.
+- **Google Docs** — producción y organización de documentos;
+- **Google Sheets** — organización de datos y actividades prácticas;
+- **Google Slides** — presentaciones profesionales;
+- **Canva** — comunicación visual, diseño y creación/edición de presentaciones, incluidos recursos de IA;
+- **ChatGPT** — organización, producción, revisión y apoyo a la productividad, incluida la creación de un agente administrativo personalizado;
+- **Manus AI / Manus Slides** — generación inicial de presentaciones a partir de briefings y prompts;
+- **Inteligencia Artificial** — prompts, análisis crítico y revisión humana;
+- **GitHub** — documentación y organización de este caso.
 
 ## 🧠 Competencias desarrolladas
 
 ### Hard skills
 
-| Skill | Application |
+| Competencia | Aplicación |
 |---|---|
-| Digital tools | Using technology for professional demands |
-| Documents | Content production and review |
-| Spreadsheets | Organizing and manipulating information |
-| Presentations | Visual communication and narrative structure |
-| Design | Visual hierarchy, color, and typography |
-| Artificial Intelligence | Prompts, productivity, and organization |
-| Digital security | Conscious and responsible use of information |
+| Herramientas digitales | Uso de recursos para demandas profesionales |
+| Documentos | Producción y revisión de contenidos |
+| Hojas de cálculo | Organización y manipulación de información |
+| Presentaciones | Comunicación visual y estructura narrativa |
+| Diseño | Jerarquía visual, colores y tipografía |
+| Inteligencia Artificial | Prompts, productividad y organización |
+| Seguridad digital | Uso consciente y responsable de la información |
 
 ### Soft skills
 
-- Communication
-- Organization
-- Planning
-- Autonomy
-- Critical thinking
-- Creativity
-- Problem solving
-- Adaptability
-- Public speaking
+- Comunicación;
+- Organización;
+- Planificación;
+- Autonomía;
+- Pensamiento crítico;
+- Creatividad;
+- Resolución de problemas;
+- Adaptabilidad;
+- Presentación en público.
 
 ## ⭐ Caso destacado
 
-### Technology + Education + AI + Inclusion
+### Tecnología + Educación + IA + Inclusión
 
-This project demonstrates an integrated approach to professional development.
+Este proyecto demuestra un enfoque integrado para el desarrollo profesional.
 
-Technology was used not only as content, but as a tool to:
+La tecnología se utilizó no solo como contenido, sino como herramienta para:
 
-> **Organize → Create → Communicate → Solve → Reflect → Apply**
+> **Organizar → Crear → Comunicar → Resolver → Reflexionar → Aplicar**
 
-### Evidence from the pathway
+### Evidencias del recorrido
 
-- 📚 Structured pedagogical planning
-- 💻 Hands-on activities using real tools
-- 🤖 Applied use of Artificial Intelligence
-- 🎨 Development of visual communication
-- 📊 Skills assessment
-- 🚀 Integrative projects
-- 🗣️ Professional presentations
-- 📈 Reports of application in professional contexts
+📚 Planificación pedagógica estructurada
+
+💻 Actividades prácticas con herramientas reales
+
+🤖 Uso aplicado de la Inteligencia Artificial
+
+🎨 Desarrollo de comunicación visual
+
+📊 Evaluación de competencias
+
+🚀 Proyectos integradores
+
+🗣️ Presentaciones profesionales
+
+📈 Relatos de aplicación en contextos profesionales
 
 ## 🔗 Navegación rápida
 
-- [📊 Results and Impact](./08_Resultados/)
-- [🤖 AI Prompt Library](./06_Prompts_IA/)
-- [🚀 Integrative Projects](./07_Projetos/)
-- [📚 Lesson Plans](./03_Planos_de_Aula/)
-- [🧭 Planning](./02_Planejamento/)
-- [👨‍🏫 Educator Materials](./04_Materiais_Educador/)
+- [📊 Resultados e Impacto](./08_Resultados/)
+- [🤖 Biblioteca de Prompts de IA](./06_Prompts_IA/)
+- [🚀 Proyectos Integradores](./07_Projetos/)
+- [📚 Planes de Clase](./03_Planos_de_Aula/)
+- [🧭 Planificación](./02_Planejamento/)
+- [👨‍🏫 Materiales del Educador](./04_Materiais_Educador/)
 
 ## 💡 Valor para el portafolio
 
-This repository presents practical experience in:
+Este repositorio presenta experiencia práctica en:
 
-**Professional Education • Educational Technology • Artificial Intelligence • Design • Communication • Pedagogical Planning • Skills Assessment • Inclusion**
+**Educación Profesional • Tecnología Educativa • Inteligencia Artificial • Diseño • Comunicación • Planificación Pedagógica • Evaluación de Competencias • Inclusión**
 
-It can serve as a reference for future professional training initiatives, technology education, and projects that integrate digital skills with human development.
-
+Puede utilizarse como referencia para futuras iniciativas de formación profesional, educación tecnológica y proyectos que integren competencias digitales con el desarrollo humano.
 
 ---
+
+## Autor
+
+**Filipe G Morais**
 
 Repositorio: https://github.com/sayjinblackbelt/2026_Professional_Projects_Inclusao_Digital
