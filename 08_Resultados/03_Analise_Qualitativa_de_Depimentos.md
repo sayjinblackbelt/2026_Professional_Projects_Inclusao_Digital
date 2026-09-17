@@ -46,7 +46,7 @@ Os depoimentos também destacaram a importância de:
 - escuta;
 - relações profissionais respeitosas;
 - autenticidade;
-- possibilidade de aprender sem necessidade de ocultar características pessoais.
+- ambientes que favoreçam participação e aprendizagem.
 
 ## Importância pedagógica
 
@@ -59,3 +59,5 @@ A tecnologia funcionou como instrumento para:
 - comunicar ideias;
 - construir confiança;
 - ampliar possibilidades de atuação.
+
+> Esta análise apresenta temas agregados e não associa depoimentos a participantes identificáveis.
