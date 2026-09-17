@@ -192,6 +192,8 @@ Dados individuais, respostas identificáveis e informações pessoais dos partic
 
 Os resultados apresentados foram consolidados de forma agregada e qualitativa.
 
+Consulte também a [Política de Privacidade e Dados](./01_Documentacao/PRIVACIDADE_E_DADOS.md).
+
 ---
 
 # 👨‍🏫 Educador responsável
@@ -240,10 +242,9 @@ Este repositório funciona simultaneamente como:
 - **Google Documentos** — produção e organização de documentos;
 - **Google Planilhas** — organização, dados e atividades práticas;
 - **Google Apresentações** — apresentações profissionais;
-- **Canva** — comunicação visual e design;
+- **Canva** — comunicação visual, design e criação/edição de apresentações, incluindo recursos de IA;
 - **ChatGPT** — organização, produção, revisão e apoio à produtividade, incluindo criação de agente administrativo personalizado;
 - **Manus IA / Manus Slides** — geração inicial de apresentações a partir de briefings e prompts;
-- **Canva** — design, comunicação visual e criação/edição de apresentações, incluindo recursos de IA;
 - **Inteligência Artificial** — prompts, análise crítica e revisão humana;
 - **GitHub** — documentação e organização deste case.
 
@@ -334,7 +335,3 @@ Pode ser utilizado como referência para futuras iniciativas de formação profi
 
 GitHub: https://github.com/sayjinblackbelt  
 Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Inclusao_Digital
-
-<!-- CI trigger: inclusion portfolio validation -->
-
-<!-- CI retest: multilingual identity -->
